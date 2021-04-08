@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+    <metadata>
+        <id>Bigboss.Scraping</id>
+		<version>$version$</version>
+        <authors>Bigboss Dev team</authors>
+        <owners>Bigboss</owners>
+        <description>Api gateway for bigboss4.net</description>
+        <language>en-US</language>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>Bigboss Scraping API</tags>
+    </metadata>
+    <files>
+        <file src="bin\release\netcoreapp3.1\**\*" target="lib\net45\" />
+    </files>
+</package>

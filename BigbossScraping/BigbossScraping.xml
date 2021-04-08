@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BigbossScraping</name>
+    </assembly>
+    <members>
+        <member name="M:BigbossScraping.Controllers.JobsController.SchedulePageScraping(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="actionUrl">Url that has to be scraped</param>
+            <returns>200 if the URL is valid and the job has been scheduled successfully</returns>
+        </member>
+        <member name="M:BigbossScraping.Controllers.ScrapedSiteController.GetProgramCategories">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BigbossScraping.Controllers.ScrapedSiteController.GetProgramForCategory(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="categoryName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
